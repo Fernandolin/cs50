@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sorte
+
+How do you know?: Random = 8,3 sec / Reversed = 6,2 sec / Sorted = 1,088.
+
+sort2 uses: Merge Sorte
+
+How do you know?: Random = 1,031 sec / Reversed = 1,04 sec / Sorted = 0,859.
+
+sort3 uses: Selection Sorte
+
+How do you know?: Random = 3,8 sec / Reversed = 3,6 sec / Sorted = 4,084.
